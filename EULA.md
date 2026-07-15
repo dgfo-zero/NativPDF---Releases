@@ -1,8 +1,8 @@
-# PageSmith End User License Agreement
+# NativePDF End User License Agreement
 
 Version 1.0.0 - counsel approval record required before distribution
 
-This End User License Agreement ("Agreement") is between you and {{LEGAL_PUBLISHER}} ("Publisher") for PageSmith and its accompanying documentation ("Software"). By installing or using the Software, you accept this Agreement. If you do not accept it, do not install or use the Software.
+This End User License Agreement ("Agreement") is between you and {{LEGAL_PUBLISHER}} ("Publisher") for NativePDF and its accompanying documentation ("Software"). By installing or using the Software, you accept this Agreement. If you do not accept it, do not install or use the Software.
 
 ## License
 
@@ -14,11 +14,11 @@ You may not sell, sublicense, rent, lease, redistribute, or provide the Software
 
 ## Documents and responsibility
 
-You retain rights in documents and images you process. You are responsible for authorization to edit, decrypt, sign, copy, or distribute them; for keeping source files and backups; for reviewing output before reliance; and for protecting passwords and devices. A PageSmith visual signature is not a certificate-based digital signature and may not satisfy legal signature requirements.
+You retain rights in documents and images you process. You are responsible for authorization to edit, decrypt, sign, copy, or distribute them; for keeping source files and backups; for reviewing output before reliance; and for protecting passwords and devices. A NativePDF visual signature is not a certificate-based digital signature and may not satisfy legal signature requirements.
 
 ## Privacy, updates, and third parties
 
-The accompanying Privacy Notice describes local processing. PageSmith 1.0 has no automatic updater. Third-party components are licensed separately under notices included with the Software.
+The accompanying Privacy Notice describes local processing. NativePDF 1.0 has no automatic updater. Third-party components are licensed separately under notices included with the Software.
 
 ## Disclaimer
 
